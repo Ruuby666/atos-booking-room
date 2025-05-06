@@ -88,6 +88,5 @@ El sistema se encuentra en **estado de desarrollo**
 ![image (14)](https://github.com/user-attachments/assets/261f97ff-2993-4def-9d50-15ad60516428)
 ![image (15)](https://github.com/user-attachments/assets/82f0b956-fbd2-4113-ab97-c3ced3afb455)
 ![image (16)](https://github.com/user-attachments/assets/77e662b2-571b-430b-bafa-5790a9af1b49)
-![image (17)](https://github.com/user-attachments/assets/c5711223-61d7-46b8-855d-4058724ebba3)
-
+![image (17)](https://github.com/user-attachments/assets/35f70942-3229-4231-8532-5ef604f0a3a1)
 
